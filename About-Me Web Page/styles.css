@@ -1,0 +1,61 @@
+table, th, td {
+    border: 1px solid black;
+    border-spacing: 3px;
+    padding: 3px;
+}
+
+div {
+    display: grid;
+    /*text-align: center;*/
+    grid-template-columns: auto auto auto auto auto auto;
+}
+/*#time {
+    width: fit-content;
+    background-color: rgb(179, 202, 153);   
+}*/
+#days {
+   /* background-color: brown;*/
+    }
+#col-1 {
+width: min-content;
+}
+body {
+    background-image: url(bgwhite.jpg);
+    font-family:'Courier New', Courier, monospace;
+}
+img {
+    float: right;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+#haiku {
+    font-style: italic;
+    text-align: center;
+}
+table {
+    text-align: left;    
+    
+}
+.cs2550 {
+    background-color: aquamarine;
+}
+
+.info3430 {
+    background-color: antiquewhite;
+}
+.grading {
+    background-color: darkgray;
+}
+.mktg220g {
+    background-color: darksalmon;
+}
+.phys1010 {
+    background-color: indianred;
+}
+.walk {
+    background-color: rgb(159, 228, 31);
+}
